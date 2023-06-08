@@ -1,1 +1,32 @@
-# BUPT-Compiler-Lab1-2023
+# BUPT Compiler Lab1 2023Fall
+
+## Outline
+
+- Project Overview
+- BPL Specification
+- Environment
+- C language Exercise
+
+---
+
+Welcome to the lab class! In this course, you will be completing the programming assignments. Additionally, you will need to submit a Markdown report(README.md) documenting your work for assignment. Please carefully follow the instructions outlined below:
+
+0. Academic Integrity:
+   - Plagiarism or any form of cheating is strictly prohibited.
+   - Your work should be original, and any external sources should be appropriately cited.
+1. Programming Assignments:
+   - Feel free to ask questions and seek assistance from the teaching assistant if needed.
+2. Report:
+   - Include any relevant diagrams, charts, or screenshots to enhance your explanations.
+   - Make sure your report is well-structured, with appropriate headings and subheadings.
+3. Submission Guidelines:
+   - Include your **name**, **student ID**, and the lab class number in the report's header.
+   - Using **Tags** on GitHub to Determine Assignment Submission Versions.(The tag for this lab is `lab1`)
+
+---
+
+## Report
+
+Name: <YOUR-NAME>
+
+ID: <YOUR-STUDENT-ID>
